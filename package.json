@@ -1,0 +1,19 @@
+{
+  "name": "voudeonibusapp.com",
+  "version": "1.0.0",
+  "description": "Site Vou de ônibus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voudeonibus/react.voudeonibusapp.com.git"
+  },
+  "author": "Vou de ônibus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voudeonibus/react.voudeonibusapp.com/issues"
+  },
+  "homepage": "https://github.com/voudeonibus/react.voudeonibusapp.com#readme"
+}
